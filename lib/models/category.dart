@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class Category {
-  final String name;
+  final String title;
   final Color color;
-  Category(this.name, this.color);
+  Category(this.title, this.color);
 }
